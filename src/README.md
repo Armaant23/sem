@@ -1,2 +1,2 @@
 # SEM Project
-Initial setup for Software Engineering Methods   .
+Initial setup fo r Software Engineering Methods   .
